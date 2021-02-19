@@ -1,5 +1,5 @@
 {
-  "name": "@alife/rexd-d2-demo",
+  "name": "temp-react-docgen-typescript-plugin-issue28",
   "version": "0.4.8",
   "main": "dist/bundle.js",
   "scripts": {
